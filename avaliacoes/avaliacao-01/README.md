@@ -1,5 +1,6 @@
-<h1 align = "center">  Avaliaçao 01 </h1>
+<h1>  Avaliaçao 01 </h1>
+
+<img width = 1000 height = 450 src = "https://github.com/DeniseFer/bd-info-p4/assets/124710256/8a4f76dd-55d9-42df-a3d4-ac13d75e028d">
 
 <div>
-<h2> :book: Sobre o repositório <𝚍𝚎talhes/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
-</div>
+
