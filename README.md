@@ -1,5 +1,5 @@
 
-<img width = 1000 height = 450 src = "https://github.com/DeniseFer/bd-info-p4/assets/124710256/c390da2d-130e-46c6-a2ce-d483c459ed82">
+<img width = 1000 height = 450 src = "https://github.com/DeniseFer/bd-info-p4/assets/124710256/7b525486-778f-4c1c-b4b7-1ab6101a4e0c">
 
 <div>
 <h2> 💻: Sobre o repositório <𝚍𝚎talhes/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
