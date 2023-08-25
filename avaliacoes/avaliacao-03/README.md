@@ -1,1 +1,1 @@
-<img src = "https://github.com/DeniseFer/bd-info-p4/assets/124710256/0ca0c83c-5282-4e2c-a5ce-54ed6a41d03">
+<img src = "https://github.com/DeniseFer/bd-info-p4/assets/124710256/5e628375-f4de-48f0-8d80-e7e7704e47d4">
